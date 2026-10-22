@@ -1,4 +1,3 @@
-
 # Task 2: Git & GitHub Workflow
 
 ## Objective
@@ -20,3 +19,4 @@ To practise version control using Git and GitHub.
 ## Result
 This project demonstrates basic repository management,
 version control, branching, merging, and collaboration.
+Branch practice: Created task2-update to practise isolated changes.
